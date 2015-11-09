@@ -10,7 +10,7 @@
  *********************************************/
 body {
   background: #111;
-  background-color: #111; }
+  background-color: #0dd4d3; }
 
 .reveal {
   font-family: "Open Sans", sans-serif;
@@ -202,7 +202,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #e7ad52;
+  color: #000000;
   text-decoration: none;
   -webkit-transition: color 0.15s ease;
   -moz-transition: color 0.15s ease;
